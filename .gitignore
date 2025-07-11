@@ -1,0 +1,11 @@
+# IntelliJ IDEA 文件
+.idea/
+*.iml
+*.iws
+*.ipr
+.idea_modules/
+.DS_Store
+*$py.class
+.vscode
+**/__pycache__
+*.log
